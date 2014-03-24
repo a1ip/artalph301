@@ -1,5 +1,4 @@
-REDIRECT_URL = '
-http://www.artalph.com/';
+REDIRECT_URL = 'http://www.artalph.com/';
 
 WebApp.connectHandlers
   .use(function(req, res, next) {
