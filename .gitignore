@@ -25,5 +25,3 @@ logs
 results
 
 npm-debug.log
-
-server/smtp.coffee
